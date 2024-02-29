@@ -1,0 +1,30 @@
+Player 1 Board:
+_ _ _ _ _
+_ B _ _ _
+_ _ X _ _
+_ _ _ B _
+_ _ _ _ X
+
+Player 2 Board:
+_ _ _ _ _
+_ X _ _ _
+_ _ _ _ _
+_ _ B _ _
+_ _ _ _ B
+
+Player 1 Moves:
+0,1: MISS
+2,2: HIT
+3,1: MISS
+4,4: HIT
+
+Player 2 Moves:
+1,1: HIT
+2,3: MISS
+3,2: MISS
+4,0: MISS
+
+Final Result:
+Player 1: 2 hits
+Player 2: 1 hit
+Player 1 wins
